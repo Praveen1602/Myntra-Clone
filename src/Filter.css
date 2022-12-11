@@ -1,0 +1,14 @@
+
+.filter-container{
+    height: 80vh;
+    width: 20vw;
+    border: 5px solid black;
+}
+.gender{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.dress-category{
+    margin-top: 10px;
+    margin-left: 10px;
+}
